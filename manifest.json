@@ -1,5 +1,5 @@
 {
-  "name": "My Strength Coach",
+  "name": "David's Strength Coach v8.1",
   "short_name": "Strength Coach",
   "start_url": "./index.html",
   "display": "standalone",
@@ -7,7 +7,7 @@
   "theme_color": "#111827",
   "icons": [
     {
-      "src": "icon.svg",
+      "src": "./icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
